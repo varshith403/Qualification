@@ -1,0 +1,20 @@
+{
+    "qualifications": {
+      "schooling": {
+        "degree": "10th class",
+        "school": "blue bells high school",
+        "year": 2020
+      },
+      "secondary_schooling": {
+        "degree": "Intermediate Certificate",
+        "school": "vidya mandir junior college",
+        "year": 2022
+      },
+      "post_graduation": {
+        "degree": "Engineering",
+        "branch": "Cse",
+        "university": "Malla reddy university",
+        "year": 2026
+      }
+    }
+  }
